@@ -1,0 +1,19 @@
+{
+  "name": "@modinium/modinium-node-client",
+  "version": "1.0.0",
+  "description": "The Node client for the Modinium API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modinium/Modinium-Node-Client.git"
+  },
+  "author": "The Modinium Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Modinium/Modinium-Node-Client/issues"
+  },
+  "homepage": "https://github.com/Modinium/Modinium-Node-Client#readme"
+}
